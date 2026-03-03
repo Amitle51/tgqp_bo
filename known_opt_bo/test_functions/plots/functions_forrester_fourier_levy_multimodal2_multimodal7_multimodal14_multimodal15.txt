@@ -1,0 +1,41 @@
+Test Functions Visualization
+==================================================
+
+Number of functions: 7
+
+Function: forrester
+  Dimension: 1
+  Optimum value: 6.020740
+  Bounds: {'x': (0, 1)}
+
+Function: fourier
+  Dimension: 1
+  Optimum value: 9.508348
+  Bounds: {'x': (0, 10)}
+
+Function: levy
+  Dimension: 1
+  Optimum value: -0.000000
+  Bounds: {'x': (-10, 10)}
+
+Function: multimodal2
+  Dimension: 1
+  Optimum value: 1.489073
+  Bounds: {'x': (0.0, 1.2)}
+
+Function: multimodal7
+  Dimension: 1
+  Optimum value: 1.601300
+  Bounds: {'x': (2.7, 7.5)}
+
+Function: multimodal14
+  Dimension: 1
+  Optimum value: 0.788685
+  Bounds: {'x': (0.0, 4.0)}
+
+Function: multimodal15
+  Dimension: 1
+  Optimum value: 0.035530
+  Bounds: {'x': (-5.0, 5.0)}
+
+Generated on: 2026-01-13 13:44:17

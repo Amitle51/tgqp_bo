@@ -1,0 +1,13 @@
+N-Value Comparison Analysis
+==================================================
+
+Function: multimodal14
+Result set: res_72
+N values compared: [40, 100]
+
+Parameters compared:
+  - $\sigma^2$
+  - $l^2$
+  - $\mu$
+
+Generated on: 2026-02-25 15:48:12

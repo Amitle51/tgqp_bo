@@ -1,0 +1,14 @@
+{
+  "iteration": 2,
+  "acq_name": "TrueMES",
+  "function_name": "forrester",
+  "y_max_original": 6.02074,
+  "search_space": [
+    [
+      0.0,
+      1.0
+    ]
+  ],
+  "n_observations": 5,
+  "grid_size": 1000
+}

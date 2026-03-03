@@ -1,0 +1,27 @@
+Mean Regret Analysis
+==================================================
+
+Function: MultiModal2
+Optimal value (f*): -1.4891
+Experiments per algorithm: 25
+Iterations: 11
+
+Algorithms:
+  - GP+EI
+  - GP+MES
+  - GP+TEI
+  - Random
+  - SlogGP(boundary)+SlogEI
+  - SlogGP(boundary)+SlogTEI
+  - SlogGP(fixedbound)+SlogEI
+  - SlogGP+SlogEI
+  - SlogGP+SlogTEI
+  - TGQP+MES50
+  - TGQP+MES75
+  - transformedGP+ERM
+
+Excluded diagnostic suffixes:
+  - _boundaryValue
+  - _varianceValue
+
+Generated on: 2026-02-25 14:30:43
