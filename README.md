@@ -15,6 +15,14 @@ The framework demonstrates improved sample efficiency in Bayesian Optimization w
 
 ---
 
+## TGQP-BO
+
+![BO figure](known_opt_bo/experiments/bo_progress_res/forrester_20260207_111205/Figures/BO.png)
+
+*4 consecutive optimization iterations on the "Forrester" function (black) given the known global maximum*
+
+---
+
 ## Key Contributions
 
 - **Truncated Gaussian Quasi-Process (TGQP)** — a principled surrogate model for black-box functions with known global bounds, formalized as a transductive model on fixed evaluation grids
